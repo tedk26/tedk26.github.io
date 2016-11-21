@@ -1,0 +1,116 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	margin:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	width:1200px;
+	height:1080px;
+	background-image: url(TEKexprot1/kellysfavorite5_04.jpg);
+	background-repeat:repeat-x;
+}
+
+
+#header {
+	margin:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	height:190 px;
+	width:1000 px;
+	background-color:#000;
+}
+
+#tek2 {
+	margin-left:360px;
+	margin-top:-200px;
+	height:135px;
+	width: 1000px;
+	background-color:#000;
+	font-family:Garamond;
+	font-size:65px;
+	color:#FFF;
+}
+
+
+#logo2 {
+	background-image:url(file:///LACIE/tekpics/TEK%20Website/Webpagephotoshoproughs/Webpagemain/Weblogomain.jpg);
+	background-repeat:no-repeat;
+	margin-left:40px;
+	background-color:#000;	
+}
+
+
+
+
+
+#ted2 {
+	margin-left:314px;
+	margin-top:-45px;
+	font-family:Garamond;
+	font-size:72px;
+	color:#000;
+}
+
+#banner {
+	margin-left:325px;
+	margin-top:50px;
+	background-image: url(file:///Macintosh%20HD/Users/tedkissel/Desktop/websites%20/tekpicsserversfree2%20copy%204/TEKexprot1/slideshospacer.jpg)l;
+	width:752px;
+	height:509px;
+}
+
+#container2 {
+	text-align:center;
+	margin-top:-492px;
+	margin-left:50px;
+}
+
+#navmenu2 {
+	margin-top:18px;
+	width:200px;
+	height:335px;
+	padding:0px;
+	display:block;
+}
+
+#navmenu2 ul {
+	list-style-type: none;
+	margin:0px;
+	padding:0px;
+	text-align:center;
+	display:block;
+}
+
+#navmenu ul2 li {
+	width:200px;
+	float:left;
+	margin-left:10px;
+	margin-top:26px;
+	display:block;
+}
+
+#navmenu2 a {
+	font-family: helvetica, Helvetica;
+	text-decoration:none;
+	display:block;
+	width:200px;
+	height:42px;
+	line-height:36px;
+	font-size:24px;
+	color:#000;
+}
+
+#navmenu2 a:hover {
+	background-position:0px; 
+	color:#008191;
+	font-weight:bold;
+	
+	
+}
+	
+	
+	
+
+
+
+
+
+

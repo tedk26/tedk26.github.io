@@ -1,0 +1,585 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	margin:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	width:1200px;
+	height:1200px;
+	background-image: url(../../TEKexprot1/kellysfavoritebg2_01.jpg);
+	background-repeat:repeat-x;
+}
+
+#head { 
+  margin:0px;
+  width:1120px;
+  height:125px;
+}
+
+#loglsl1l {
+	margin-top:22px;
+	margin-left:50px;
+	background-image:url(file:///LACIE/TEK%20Website/Webpagephotoshoproughs/Webpagemain/images/images/Logoslice1_03.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsl2l {
+	margin-left:55px;
+	margin-top:-113px;
+	background-image: url(../../tekexport2/logoslice2_04.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsl3l {
+	margin-left:57px;
+	margin-top:-110px;
+	background-image: url(../../tekexport2/logoslice3_05.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsl4l {
+	margin-left:61px;
+	margin-top:-110px;
+	background-image: url(../../tekexport2/logoslice4_06.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsl5l {
+	margin-left:65px;
+	margin-top:-110px;
+	background-image: url(../../tekexport2/logoslice5_07.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsl6l {
+	margin-left:69px;
+	margin-top:-109px;
+	background-image: url(../../tekexport2/logoslice6_08.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsl7l {
+	margin-left:73px;
+	margin-top:-109px;
+	background-image: url(../../tekexport2/logoslice7_09.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsl8l {
+	margin-left:79px;
+	margin-top:-109px;
+	background-image: url(../../tekexport2/logoslice8_10.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsl9l {
+	margin-left:84px;
+	margin-top:-109px;
+	background-image: url(../../tekexport2/logoslice9_11.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsl10l {
+	margin-left:90px;
+	margin-top:-109px;
+	background-image: url(../../tekexport2/logoslice10_12.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsl11l {
+	margin-left:94px;
+	margin-top:-109px;
+	background-image: url(../../tekexport2/logoslice11_13.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsl12l {
+	margin-left:98px;
+	margin-top:-110px;
+	background-image: url(../../tekexport2/logoslice12_14.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsl13l {
+	margin-left:103px;
+	margin-top:-113px;
+	background-image: url(../../tekexport2/logoslice13_15.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsl14l {
+	margin-left:108px;
+	margin-top:-114px;
+	background-image: url(../../tekexport2/logoslice14_16.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglslmiddle {
+	margin-left:113px;
+	margin-top:-117px;
+	background-image: url(../../tekexport2/logoslice15_17.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglslb1 {
+	margin-left:127px;
+	margin-top:0px;
+	background-image: url(../../tekexport2/logobottomslice1_78.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglslb2 {
+	margin-left:139px;
+	margin-top:0px;
+	background-image: url(../../tekexport2/logobottomslice2_88.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglslb3 {
+	margin-left:144px;
+	margin-top:0px;
+	background-image: url(../../tekexport2/logobottomslice3_91.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglslb4 {
+	margin-left:150px;
+	margin-top:0px;
+	background-image: url(../../tekexport2/logobottomslice4_94.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglslb5 {
+	margin-left:155px;
+	margin-top:0px;
+	background-image: url(../../tekexport2/logobottomslice5_97.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglslb6 {
+	margin-left:158px;
+	margin-top:0px;
+	background-image: url(../../tekexport2/logobottomslice6_100.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglslb7 {
+	margin-left:161px;
+	margin-top:0px;
+	background-image: url(../../tekexport2/logobottomslice7_102.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll1 {
+	margin-left:242px;
+	margin-top:-150px;
+	background-image: url(../../tekexport2/Logoslice1_03.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll2 {
+	margin-left:246px;
+	margin-top:-49px;
+	background-image: url(../../tekexport2/Logoleftslice2_19.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll3 {
+	margin-left:251px;
+	margin-top:-44px;
+	background-image: url(../../tekexport2/logoleftslice3_20.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll4 {
+	margin-left:254px;
+	margin-top:-41px;
+	background-image: url(../../tekexport2/logoleftslice4_21.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll5 {
+	margin-left:257px;
+	margin-top:-39px;
+	background-image: url(file:///LACIE/TEK%20Website/Webpagephotoshoproughs/Webpagemain/images/images/logoleftslice5_22.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll6 {
+	margin-left:260px;
+	margin-top:-37px;
+	background-image: url(../../tekexport2/logoleftslice6_23.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll7 {
+	margin-left:262px;
+	margin-top:-35px;
+	background-image: url(../../tekexport2/logoleftslice5_22.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll8 {
+	margin-left:265px;
+	margin-top:-33px;
+	background-image: url(../../tekexport2/logolslice8_25.jpg);
+	background-repeat:no-repeat;
+}
+
+
+#loglsll9 {
+	margin-left:267px;
+	margin-top:-31px;
+	background-image: url(../../tekexport2/logolslice9_26.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll10 {
+	margin-left:270px;
+	margin-top:-29px;
+	background-image: url(../../tekexport2/logolslice10_27.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll11 {
+	margin-left:272px;
+	margin-top:-27px;
+	background-image: url(../../tekexport2/logolslice11_28.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll12 {
+	margin-left:275px;
+	margin-top:-24px;
+	background-image: url(../../tekexport2/logolslice12_30.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll13 {
+	margin-left:278px;
+	margin-top:-22px;
+	background-image: url(../../tekexport2/logolslice13_31.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll14 {
+	margin-left:282px;
+	margin-top:-22px;
+	background-image: url(../../tekexport2/logolslice14_32.jpg);
+	background-repeat:no-repeat;
+}
+
+
+#loglsll15 {
+	margin-left:285px;
+	margin-top:-16px;
+	background-image: url(../../tekexport2/logolslice15_33.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll16 {
+	margin-left:289px;
+	margin-top:-15px;
+	background-image: url(../../tekexport2/logolslice16_34.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll17 {
+	margin-left:292px;
+	margin-top:-12px;
+	background-image: url(../../tekexport2/logolslice17_35.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll18 {
+	margin-left:297px;
+	margin-top:-11px;
+	background-image: url(../../tekexport2/logolslice18_36.jpg);
+	background-repeat:no-repeat;
+}
+
+#loglsll19 {
+	margin-left:302px;
+	margin-top:-7px;
+	background-image:url(../../tekexport2/logolslice19_37.jpg);
+	background-repeat:no-repeat;
+}
+
+#container4 {
+	text-align:center;
+	width:307px;
+	height:1080px;
+	background-color:#343434;
+	margin-top:150px;
+	margin-left:0px;
+}
+
+#navmenu3 {
+	margin-top:0px;
+	width:250px;
+	height:800px;
+	padding:0px;
+	display:block;
+}
+
+
+#navmenu3 ul li {
+	width:190px;
+	float:left;
+	display:block;
+}
+
+#navmenu3 a {
+	font-family:Helvetica;
+	text-decoration:none;
+	display:block;
+	width:200px;
+	height:42px;
+	line-height:36px;
+	font-size:24px;
+	color:#FFF;
+}
+
+#navmenu3 a:hover {
+	background-position:0px; 
+	color:#008191;
+	font-weight:bold;
+	
+	
+}
+
+
+
+#artwork {
+	margin-left:308px;
+	margin-top:-1259px;
+	width:892px;
+	height:1220px;
+	background-image: url(../../TEKexprot1/kellysfavoriteportfolio_02.jpg);
+	background-color:#FFF;
+	background-repeat: repeat-x;
+}
+
+
+
+
+
+#photo{
+	height:32px;
+	margin-top:-340px;
+	margin-left:10px;
+	float:left;
+	font-family: Helvetica;
+	font-size:54px;
+	color: #000;
+	text-align:center;
+}
+
+
+#teeshirt1 {
+	margin-left:20px;
+	margin-top:-630px;
+	width:230px;
+	padding-right:10px;
+	height:170px;
+	padding-right:10px;
+	background-repeat: no-repeat;
+	text-decoration:none;
+}
+
+#teeshirt1 a{
+	font:Helvetica;
+	color:#FFF;
+	text-decoration:none;
+}
+
+#teeshirt1 a:hover{
+	font-weight:bold;
+	color:#000;
+}
+
+
+
+#beerlabel {
+	margin-left:320px;
+	margin-top:-630px;
+	width:230px;
+	padding-right:10px;
+	height:130px;
+	padding-right:10px;
+	background-repeat: no-repeat;
+	text-decoration:none;
+}
+
+#beerlabel a{
+	font:Helvetica;
+	color:#FFF;
+	text-decoration:none;
+}
+
+#beerlabel a:hover{
+	color:#000;
+	font-weight:bold
+}
+
+#stationary {
+	margin-left:625px;
+	margin-top:-630px;
+	width:230px;
+	padding-right:10px;
+	height:330px;
+	padding-right:10px;
+	background-repeat: no-repeat;
+	text-decoration:none;
+}
+
+#stationary a{
+	font:Helvetica;
+	color:#FFF;
+	text-decoration:none;
+}
+
+
+#stationary a:hover{
+	color:#000;
+	font-weight:bold
+}
+
+#brochures {
+	margin-left:20px;
+	margin-top:-250px;
+	width:230px;
+	padding-right:10px;
+	height:160px;
+	padding-right:10px;
+	background-repeat: no-repeat;
+	text-decoration:none;
+}
+
+#brochures a{
+	font:Helvetica;
+	color:#FFF;
+	text-decoration:none;
+}
+
+#brochures a:hover{
+	color:#000;
+	font-weight:bold
+}
+
+#flyers {
+	margin-left:320px;
+	margin-top:-250px;
+	width:230px;
+	padding-right:10px;
+	height:330px;
+	padding-right:10px;
+	background-repeat: no-repeat;
+	text-decoration:none;
+}
+
+#flyers  a{
+	font:Helvetica;
+	color:#FFF;
+	text-decoration:none;
+}
+
+#flyers a:hover{
+	color:#000;
+	font-weight:bold
+}
+
+#postcards {
+	margin-left:615px;
+	margin-top:-355px;
+	width:250px;
+	padding-right:10px;
+	height:340px;
+	padding-right:0px;
+	background-repeat: no-repeat;
+	text-decoration:none;
+}
+
+#postcards a{
+	font:Helvetica;
+	color:#FFF;
+	text-decoration:none;
+}
+
+#postcards a:hover{
+	color:#000;
+	font-weight:bold;
+	font:Helvetica;
+}
+
+#posters {
+	margin-left:320px;
+	margin-top:20px;
+	width:230px;
+	padding-right:10px;
+	height:390px;
+	padding-right:10px;
+	background-repeat: no-repeat;
+	text-decoration:none;
+}
+
+#posters a{
+	font:Helvetica;
+	color:#FFF;
+	text-decoration:none;
+}
+
+#posters a:hover{
+	color:#000;
+	font-weight:bold
+}
+
+#covers {
+	margin-left:613px;
+	margin-top:-420px;
+	width:230px;
+	padding-right:10px;
+	height:178px;
+	padding-right:10px;
+	background-repeat: no-repeat;
+	text-decoration:none;
+}
+
+#covers a{
+	font:Helvetica;
+	color:#FFF;
+	text-decoration:none;
+}
+
+#covers a:hover{
+	color:#000;
+	font-weight:bold
+}
+
+
+div.img {
+	width: 300px;
+	margin: 20px;
+	border: solid 4px #000;
+	float: left;
+	text-align:center;
+	background-color: #008192;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+}
+
+div.img img{
+	margin: 5px;
+	width:230px;
+}
+
+#leftside {
+	margin-top:-1030px;
+	margin-left:0px;
+	width:308px;
+	height:1030px;
+	background-color:#343434;
+}
+
+
+
+

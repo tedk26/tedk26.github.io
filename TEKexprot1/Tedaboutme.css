@@ -1,0 +1,351 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	margin:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	width:960px;
+	height:1080px;
+	background-image: url(kellysfavorite5_04.jpg);
+	background-repeat:repeat-x;
+}
+
+#artistbodfuckup {
+	margin-left:150px;
+	margin-top:90px;
+	margin-bottom:200px;
+	background-color:#FFF;
+	height:712px;
+	width:793px;
+
+}
+
+#sl1left {
+	margin:0px;
+	background-image:url(../tekexport2/designstatementsideslice1_14.jpg);
+	background-repeat:no-repeat;
+}
+
+#sl2left {
+	margin-left:15px;
+	margin-top:-94px;
+	background-image:url(../tekexport2/Designstatementsideslice2_15.jpg) );
+	background-repeat:no-repeat;
+}
+
+#sl3left {
+	margin-left:35px;
+	margin-top:-90px;
+	background-image:url(../tekexport2/Designstatementsideslice3_16.jpg);
+	background-repeat:no-repeat;
+}
+
+#sl4left {
+	margin-left:56px;
+	margin-top:-88px;
+	background-image: url(../tekexport2/Designstatementsideslice4_17.jpg);
+	background-repeat:no-repeat;
+}
+
+#sl5left {
+	margin-left:75px;
+	margin-top:-86px;
+	background-image:url(../tekexport2/Designstatementsideslice5_18.jpg);
+	background-repeat:no-repeat;
+}
+
+#sl6left {
+	margin-left:177px;
+	margin-top:-94px;
+	background-image: url(../tekexport2/Designstatementsideslice6_19.jpg);
+	background-repeat:no-repeat;
+}
+
+#sl6bottom {
+	margin-left:177px;
+	margin-top:0px;
+	background-image: url(../tekexport2/Designstatementbottomslice1_39.jpg);
+	background-repeat:no-repeat;
+}
+
+#sl7bottom {
+	margin-left:177px;
+	margin-top:0px;
+	background-image:url(../tekexport2/Designstatementbottomslice2_41.jpg);
+	background-repeat:no-repeat;
+}
+
+#sl8bottom {
+	margin-left:177px;
+	margin-top:0px;
+	background-image: url(../tekexport2/Designstatementbottomslice3_43.jpg);
+	background-repeat:no-repeat;
+}
+
+#sl9bottom {
+	margin-left:177px;
+	margin-top:0px;
+	background-image: url(../tekexport2/Designstatementbottomslice5_45.jpg);
+	background-repeat:no-repeat;
+}
+
+#sl10bottom {
+	margin-left:175px;
+	margin-top:0px;
+	background-image: url(../tekexport2/lostlsice_26.jpg);
+	background-repeat:no-repeat;
+}
+
+#sl11bottom {
+	margin-left:164px;
+	margin-top:0px;
+	background-image: url(../tekexport2/Designstatementbottomslice6_54.jpg);
+	background-repeat:no-repeat;
+}
+
+#sl12bottom {
+	margin-left:185px;
+	margin-top:0px;
+	background-image: url(../tekexport2/Designstatementbottomslice7_57.jpg);
+	background-repeat:no-repeat;
+}
+
+#slobottom {
+	margin-left:202px;
+	margin-top:0px;
+	background-image: url(../tekexport2/Designstatementbottomslice8_60.jpg);
+	background-repeat:no-repeat;
+}
+
+
+
+
+
+
+#header {
+	margin:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	height:160 px;
+	width:1000 px;
+	background-color:#000;
+}
+
+#tek {
+	margin-left:360px;
+	margin-top:-200px;
+	height:135px;
+	width: 1000px;
+	background-color:#000;
+	font-family:Garamond;
+	font-size:65px;
+	color:#FFF;
+}
+
+#containeram {
+	text-align:center;;
+	width:760px;
+	height:60px;
+	margin-left:300px;
+	margin-top:-70px;
+}
+
+#navmenuam {
+	margin-top:0px;
+	width:760px;
+	height:60px;
+	padding:0px;
+}
+
+#navmenuam ul {
+    list-style-type: none;
+	margin:0px;
+	padding:0px;
+	text-align:center;
+}
+
+#navmenuam ul li {
+	width:180px;
+	float:left;
+	margin-left:10px;
+	margin-top:15p;
+}
+
+#navmenuam a {
+	font-family: "Futura ICG";
+	text-decoration:none;
+	display:block;
+	width:180px;
+	height:56px;
+	line-height:56px;
+	font-size:24px;
+	color:#FFF;
+}
+
+#navmenuam a:hover {
+	background-position:0px;
+	font-weight:bold;
+	color:#037774;
+	
+}
+
+
+#logo {
+	background-image:url(file:///LACIE/tekpics/TEK%20Website/Webpagephotoshoproughs/Webpagemain/Weblogomain.jpg);
+	background-repeat:no-repeat;
+	margin-left:40px;
+	background-color:#000;	
+}
+
+#sl7left {
+	margin-left:322px;
+	margin-top:-115px;
+	background-image: url(../tekexport2/Designstatementsideslice7_20.jpg);
+	background-repeat:no-repeat;
+}
+
+#sl8left {
+	margin-left:333px;
+	margin-top:-29px;
+	background-image: url(../tekexport2/Designstatementsideslice8_21.jpg);
+	background-repeat:no-repeat;
+}
+
+#sl9left {
+	margin-left:343px;
+	margin-top:-24px;
+	background-image: url(../tekexport2/Designstatementsideslice9_22.jpg);
+	background-repeat:no-repeat;
+}
+
+#sl10left {
+	margin-left:355px;
+	margin-top:-22px;
+	background-image: url(../tekexport2/Designstatementsideslice10_23.jpg);
+	background-repeat:no-repeat;
+}
+
+#sl11left {
+	margin-left:369px;
+	margin-top:-18px;
+	background-image: url(../tekexport2/Designstatementsideslice11_24.jpg);
+	background-repeat:no-repeat;
+}
+
+#sl12left {
+	margin-left:378px;
+	margin-top:-14px;
+	background-image: url(../tekexport2/Designstatementsideslice12_25.jpg);
+	background-repeat:no-repeat;
+}
+
+#sloleft {
+	margin-left:395px;
+	margin-top:-10px;
+	background-image: url(../tekexport2/Designstatementsideslice13_26.jpg);
+	background-repeat:no-repeat;
+}
+
+#ted1 {
+	margin-left:0px;
+	margin-top:-470px;
+	background-image: url(../tekexport2/Ted_30.jpg);
+	background-repeat:no-repeat;
+}
+
+
+#line {
+	margin-left:300px;
+	margin-top:-70px;
+	background-image: url(../tekexport2/TEDEKisselbar_36.jpg);
+	background-repeat:no-repeat;
+}
+
+#para1line1 {
+	margin-left:320px;
+	margin-top:40px;
+	font-family:Helvetica;
+	color:#000;
+	font-size:12px;
+}
+
+#para1line2 {
+	line-height:2px;
+	margin-left:280px;
+	margin-top:-5px;
+	font-family:Helvetica;
+	color:#000;
+	font-size:12px;
+}
+
+#para1line3 {
+	margin-left:320px;
+	margin-top:0px;
+	font-family:Helvetica;
+	color:#000;
+	font-size:12px;
+}
+
+#para1line4 {
+	line-height:2px;
+	margin-left:280px;
+	margin-top:-5px;
+	font-family:Helvetica;
+	color:#000;
+	font-size:12px;
+}
+
+#para1line5 {
+	line-height:2px;
+	margin-left:320px;
+	margin-top:0px;
+	font-family:Helvetica;
+	color:#000;
+	font-size:12px;
+}
+
+#para1line6 {
+	line-height:2px;
+	margin-left:280px;
+	margin-top:0px;
+	font-family:Helvetica;
+	color:#000;
+	font-size:12px;
+}
+
+#para1line7 {
+	line-height:2px;
+	margin-left:320px;
+	margin-top:0px;
+	font-family:Helvetica;
+	color:#000;
+	font-size:12px;
+}
+
+#para1line8 {
+	line-height:2px;
+	margin-left:280px;
+	margin-top:0px;
+	font-family:Helvetica;
+	color:#000;
+	font-size:12px;
+}
+
+
+#ted {
+	margin-left:314px;
+	margin-top:-45px;
+	font-family:Garamond;
+	font-size:72px;
+	color:#000;
+}
+
+
+
+	
+	
+	
+
+
+
+
+
+
