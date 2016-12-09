@@ -377,7 +377,7 @@ body {
 
 #teeshirt1 {
 	margin-left:20px;
-	margin-top:-630px;
+	margin-top:-590px;
 	width:230px;
 	padding-right:10px;
 	height:170px;
@@ -401,7 +401,7 @@ body {
 
 #beerlabel {
 	margin-left:320px;
-	margin-top:-630px;
+	margin-top:-590px;
 	width:230px;
 	padding-right:10px;
 	height:130px;
@@ -423,7 +423,7 @@ body {
 
 #stationary {
 	margin-left:625px;
-	margin-top:-630px;
+	margin-top:-590px;
 	width:230px;
 	padding-right:10px;
 	height:330px;
@@ -446,7 +446,7 @@ body {
 
 #brochures {
 	margin-left:20px;
-	margin-top:-250px;
+	margin-top:-210px;
 	width:230px;
 	padding-right:10px;
 	height:160px;
@@ -468,7 +468,7 @@ body {
 
 #flyers {
 	margin-left:320px;
-	margin-top:-250px;
+	margin-top:-210px;
 	width:230px;
 	padding-right:10px;
 	height:330px;
@@ -490,7 +490,7 @@ body {
 
 #postcards {
 	margin-left:615px;
-	margin-top:-355px;
+	margin-top:-360px;
 	width:250px;
 	padding-right:10px;
 	height:340px;
@@ -533,27 +533,6 @@ body {
 	font-weight:bold
 }
 
-#covers {
-	margin-left:613px;
-	margin-top:-420px;
-	width:230px;
-	padding-right:10px;
-	height:178px;
-	padding-right:10px;
-	background-repeat: no-repeat;
-	text-decoration:none;
-}
-
-#covers a{
-	font:Helvetica;
-	color:#FFF;
-	text-decoration:none;
-}
-
-#covers a:hover{
-	color:#000;
-	font-weight:bold
-}
 
 
 div.img {
