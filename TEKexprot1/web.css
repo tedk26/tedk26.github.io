@@ -5,7 +5,7 @@ body {
 	font-family:Arial, Helvetica, sans-serif;
 	width:1200px;
 	height:1200px;
-	background-image: url(../../TEKexprot1/kellysfavoritebg2_01.jpg);
+	background-image: url(kellysfavoritebg2_01.jpg);
 	background-repeat:repeat-x;
 }
 
@@ -116,14 +116,14 @@ body {
 #loglslmiddle {
 	margin-left:113px;
 	margin-top:-117px;
-	background-image: url(../../tekexport2/logoslice15_17.jpg);
+	background-image: url(file:///Macintosh%20HD/Users/tedkissel/Desktop/websites%20/tekpicsserversfree2%20copy%205/TEKexprot1/webslice15_17.jpg);
 	background-repeat:no-repeat;
 }
 
 #loglslb1 {
 	margin-left:127px;
 	margin-top:0px;
-	background-image: url(../../tekexport2/logobottomslice1_78.jpg);
+	background-image: url(logobottomslice1_78.jpg);
 	background-repeat:no-repeat;
 }
 
@@ -179,7 +179,7 @@ body {
 #loglsll2 {
 	margin-left:246px;
 	margin-top:-49px;
-	background-image: url(../../tekexport2/Logoleftslice2_19.jpg);
+	background-image: url(Logoleftslice2_19.jpg);
 	background-repeat:no-repeat;
 }
 
@@ -307,7 +307,7 @@ body {
 #container4 {
 	text-align:center;
 	width:307px;
-	height:1080px;
+	height:1040px;
 	background-color:#343434;
 	margin-top:150px;
 	margin-left:0px;
@@ -351,13 +351,15 @@ body {
 
 #artwork {
 	margin-left:308px;
-	margin-top:-1259px;
+	margin-top:-1243px;
 	width:892px;
 	height:1220px;
-	background-image: url(../../TEKexprot1/kellysfavoriteportfolio_02.jpg);
+	background-image: url(kellysfavoriteportfolio_02.jpg);
 	background-color:#FFF;
 	background-repeat: repeat-x;
 }
+
+
 
 
 
@@ -375,211 +377,124 @@ body {
 }
 
 
-#teeshirt1 {
-	margin-left:20px;
-	margin-top:-630px;
-	width:230px;
-	padding-right:10px;
-	height:170px;
-	padding-right:10px;
-	background-repeat: no-repeat;
-	text-decoration:none;
-}
-
-#teeshirt1 a{
-	font:Helvetica;
-	color:#FFF;
-	text-decoration:none;
-}
-
-#teeshirt1 a:hover{
-	font-weight:bold;
-	color:#000;
-}
-
-
-
-#beerlabel {
-	margin-left:320px;
-	margin-top:-630px;
-	width:230px;
-	padding-right:10px;
-	height:130px;
-	padding-right:10px;
-	background-repeat: no-repeat;
-	text-decoration:none;
-}
-
-#beerlabel a{
-	font:Helvetica;
-	color:#FFF;
-	text-decoration:none;
-}
-
-#beerlabel a:hover{
-	color:#000;
-	font-weight:bold
-}
-
-#stationary {
-	margin-left:625px;
-	margin-top:-630px;
-	width:230px;
-	padding-right:10px;
-	height:330px;
-	padding-right:10px;
-	background-repeat: no-repeat;
-	text-decoration:none;
-}
-
-#stationary a{
-	font:Helvetica;
-	color:#FFF;
-	text-decoration:none;
-}
-
-
-#stationary a:hover{
-	color:#000;
-	font-weight:bold
-}
-
-#brochures {
-	margin-left:20px;
-	margin-top:-250px;
-	width:230px;
-	padding-right:10px;
-	height:160px;
-	padding-right:10px;
-	background-repeat: no-repeat;
-	text-decoration:none;
-}
-
-#brochures a{
-	font:Helvetica;
-	color:#FFF;
-	text-decoration:none;
-}
-
-#brochures a:hover{
-	color:#000;
-	font-weight:bold
-}
-
-#flyers {
-	margin-left:320px;
-	margin-top:-250px;
-	width:230px;
-	padding-right:10px;
-	height:330px;
-	padding-right:10px;
-	background-repeat: no-repeat;
-	text-decoration:none;
-}
-
-#flyers  a{
-	font:Helvetica;
-	color:#FFF;
-	text-decoration:none;
-}
-
-#flyers a:hover{
-	color:#000;
-	font-weight:bold
-}
-
-#postcards {
-	margin-left:615px;
-	margin-top:-355px;
-	width:250px;
-	padding-right:10px;
-	height:340px;
-	padding-right:0px;
-	background-repeat: no-repeat;
-	text-decoration:none;
-}
-
-#postcards a{
-	font:Helvetica;
-	color:#FFF;
-	text-decoration:none;
-}
-
-#postcards a:hover{
-	color:#000;
-	font-weight:bold;
-	font:Helvetica;
-}
-
-#posters {
-	margin-left:320px;
+#nwps {
+	margin-left:200px;
 	margin-top:20px;
-	width:230px;
-	padding-right:10px;
-	height:390px;
-	padding-right:10px;
-	background-repeat: no-repeat;
-	text-decoration:none;
-}
-
-#posters a{
-	font:Helvetica;
-	color:#FFF;
-	text-decoration:none;
-}
-
-#posters a:hover{
+	font-family:"Adobe Garamond Pro";
+	font-size:34px;
 	color:#000;
-	font-weight:bold
+	padding-top:70px;
 }
 
-#covers {
-	margin-left:613px;
-	margin-top:-420px;
-	width:230px;
-	padding-right:10px;
-	height:178px;
-	padding-right:10px;
-	background-repeat: no-repeat;
+#nwps a {
 	text-decoration:none;
-}
-
-#covers a{
-	font:Helvetica;
-	color:#FFF;
-	text-decoration:none;
-}
-
-#covers a:hover{
-	color:#000;
-	font-weight:bold
-}
-
-
-div.img {
-	width: 300px;
-	margin: 20px;
-	border: solid 4px #000;
-	float: left;
-	text-align:center;
-	background-color: #008192;
-	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
 	color:#000;
 }
 
-div.img img{
-	margin: 5px;
-	width:230px;
+#nwps a:hover {
+	font-weight:bold;
+	color:#008191;
 }
 
-#leftside {
-	margin-top:-1030px;
-	margin-left:0px;
-	width:308px;
-	height:1030px;
-	background-color:#343434;
+#nwpstxtarea {
+	width:830px;
+	height:100px;
+	margin-left:-170px;
+	margin-top:0px;
+	font-family:Helvetica;
+	font-size:18px;
+	text-align:left;
+	line-height:10px;
 }
 
+#wps {
+	margin-left:-50px;
+	margin-top:34px;
+	font-family:"Adobe Garamond Pro";
+	font-size:34px;
+	color:#000;
+}
 
+#wps a {
+	text-decoration:none;
+	font-weight:bold;
+	color:#000;
+}
 
+#wps a:hover {
+	font-weight:bold;
+	color:#008191;
+}
+
+#wpstxtarea {
+	width:830px;
+	height:100px;
+	margin-left:-120px;
+	margin-top:0px;
+	font-family:Helvetica;
+	font-size:18px;
+	text-align:left;
+	line-height:10px;
+}
+
+#tdk {
+	margin-left:70px;
+	margin-top:34px;
+	font-family:"Adobe Garamond Pro";
+	font-size:34px;
+	color:#000;
+}
+
+#tdk a {
+	text-decoration:none;
+	font-weight:bold;
+	color:#000;
+}
+
+#tdk a:hover {
+	font-weight:bold;
+	color:#008191;
+}
+
+#tdktxtarea {
+	width:830px;
+	height:100px;
+	margin-left:-180px;
+	margin-top:0px;
+	font-family:Helvetica;
+	font-size:18px;
+	text-align:left;
+	line-height:10px;
+}
+
+#tdklewis {
+	margin-left:70px;
+	margin-top:34px;
+	font-family:"Adobe Garamond Pro";
+	font-size:34px;
+	color:#000;
+}
+
+#tdklewis a {
+	text-decoration:none;
+	font-weight:bold;
+	color:#000;
+}
+
+#tdklewis a:hover {
+	font-weight:bold;
+	color:#008191;
+}
+
+#tdktxtarealewis {
+	width:830px;
+	height:100px;
+	margin-left:-250px;
+	margin-top:0px;
+	font-family:Helvetica;
+	font-size:18px;
+	text-align:left;
+	line-height:10px;
+}
 
