@@ -1,0 +1,220 @@
+/*
+Template Design by TheWebhub.com
+http://www.thewebhub.com
+Released for free under a Creative Commons Attribution-Share Alike 3.0 Philippines
+*/
+
+/** Common Styles */
+
+body {
+	margin: 30px 0 20px 0;
+	padding: 0;
+	background: url(webbg3.jpg);
+	text-align: justify;
+	line-height: 25px;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #3C3C37;
+}
+
+h1, h2, h3 {
+	padding: 0;
+	margin: 0;
+	text-transform: lowercase;
+	color: #005880;
+}
+
+p, ul, ol {
+	margin-bottom: 1.5em;
+}
+
+ul {
+	margin: 0px;
+	padding: 0;
+}
+
+a {
+	color: #005880;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #005880;
+}
+
+/** Style for header starts here */
+
+#header {
+	width: 800px;
+	height: 145px;
+	margin: 0px auto;
+	background: url(building.jpg) no-repeat left top;
+}
+
+#header h1, #header h2 {
+	margin: 0px;
+	padding: 0;
+	font-weight: normal;
+	color: #000000;
+}
+
+#header h1 {
+	padding: 4px 0px 80px 80px;
+	font-size: 3em;
+}
+
+#header h2 {
+	margin-top: -8px;
+	padding: 0px 0px 0px 82px;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+/** Style for menu starts here */
+
+#menu {
+	width: 800px;
+	height: 36px;
+	margin: 0px auto;
+	background: #000000;
+	background-color:#808285;
+}
+
+#menu ul {
+	margin: 0px;
+	padding: 0 0 0 20px;
+	list-style: none;
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu a {
+	display: block;
+	float: left;
+	padding: 4px 0px 4px 4px;
+	height:28px;
+	width:86px;
+	text-decoration: none;
+	color: #FFFFFF;
+	text-align:center;
+}
+
+#menu a:hover {
+	color: #ef5c28;
+	background-image: url(menu_sel.png);
+	font-weight:bold;
+}
+
+/** Style for wrapper starts here */
+
+#wrapper {
+	width: 800px;
+	margin: 0px auto;
+	background: #FFFFFF;
+	padding: 20px;
+	border:#ef5c28 20px solid;
+}
+
+/** Style for content starts here */
+
+#page {
+	width: 800px;
+	margin: 0px auto;
+	padding-top: 25px;
+}
+
+#page h2 {
+	text-transform: capitalize;
+	font-size: 1.6em;
+	font-weight: normal;
+	color: #666;
+	font-family: Helvetica;
+	border-bottom: 2px #CCCCCC solid;
+}
+
+#page p {
+}
+
+#content {
+	float: left;
+	width: 480px;
+	padding-left: 20px;
+	margin-bottom: 20px;
+}
+
+
+#content .post {
+	margin-bottom: 20px;
+}
+
+#content .post2 {
+	margin-bottom: 20px;
+	background: url(danpic.jpg) no-repeat;
+	height:300px;
+}
+
+#sidebar {
+	float: right;
+	width: 240px;
+	margin-bottom: 20px;
+	padding-right: 20px;
+}
+
+
+#sidebar ul {
+	margin: 15px 0 0 0;
+	padding: 0;
+	list-style: none;
+}
+
+#sidebar li {
+	padding-left: 10px;
+}
+
+
+/** Style for footer starts here */
+
+#footer {
+	clear: both;
+	width: 800px;
+	height: 90px;
+	margin: 0px auto;
+	padding-top: 13px;
+	background: #000000 url(kellysfavoritefooter_628.gif);
+	text-transform: uppercase;
+	font-size: 10px;
+	color: #E5E5CC;
+}
+
+#footer .copyright {
+	float: left;
+	margin: 0px;
+	padding-left: 20px;
+	text-align: center;
+	color:#ef5c28;
+}
+
+#footer .links {
+	float: right;
+	margin: 0px;
+	padding-right: 20px;
+	text-align: center;
+}
+
+#footer .css {
+	padding-left: 20px;
+	background: url(image01.png) no-repeat left 50%;
+}
+
+#footer .xhtml {
+	padding-left: 20px;
+	background: url(image02.png) no-repeat left 50%;
+}
+
+#footer a {
+	color: #ef5c28;
+}

@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	width:960px;
+	height:900px;
+	background-image:url(kellysfavorite_02.jpg);
+	background-repeat:repeat-x;
+	margin:0px;
+}
+
+#wpsite {
+	float:left;
+	margin-left:-50px;
+	margin-top:0px;
+	font:"Adobe Garamond Pro";
+	font-size:34px;
+	color:#FFF;
+	font-weight:bold;
+	height:50px;
+	width:350px;
+}
+
+#wpsitetextarea {
+	margin-left:20px;
+	margin-top:0px;
+	width:850px;
+	height:85px;
+	background-color:#FFF;
+   }
+#wptext {
+	margin-left:20px;
+	padding-top:1px;
+	font-family:Helvetica;
+	font-size:12px;
+}
+   
+#marlinssite {
+	float:left;
+	margin-left:-50px;
+	margin-top:0px;
+	font:"Adobe Garamond Pro";
+	font-size:34px;
+	color:#FFF;
+	font-weight:bold;
+	height:50px;
+	width:350px;
+}
+
+#mssitetextarea {
+	margin-left:0px;
+	margin-top:0px;
+	width:850px;
+	height:85px;
+	background-color:#FFF;
+   }
+#mstext {
+	margin-left:20px;
+	padding-top:1px;
+	font-family:Helvetica;
+	font-size:12px;
+}
+
+#convertsite {
+	float:left;
+	margin-left:-50px;
+	margin-top:20px;
+	font:"Adobe Garamond Pro";
+	font-size:34px;
+	color:#FFF;
+	font-weight:bold;
+	height:50px;
+	width:350px;
+}
+
+#cssitetextarea {
+	margin-left:0px;
+	margin-top:20px;
+	width:850px;
+	height:95px;
+	background-color:#FFF;
+   }
+#cstext {
+	margin-left:20px;
+	padding-top:1px;
+	font-family:Helvetica;
+	font-size:12px;
+}
+
