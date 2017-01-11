@@ -307,7 +307,7 @@ body {
 #container4 {
 	text-align:center;
 	width:307px;
-	height:1080px;
+	height:1520px;
 	background-color:#343434;
 	margin-top:150px;
 	margin-left:0px;
@@ -351,7 +351,7 @@ body {
 
 #artwork {
 	margin-left:308px;
-	margin-top:-1259px;
+	margin-top:-1700px;
 	width:892px;
 	height:1220px;
 	background-image: url(../../TEKexprot1/kellysfavoriteportfolio_02.jpg);
@@ -377,7 +377,7 @@ body {
 
 #teeshirt1 {
 	margin-left:20px;
-	margin-top:-630px;
+	margin-top:-800px;
 	width:230px;
 	padding-right:10px;
 	height:170px;
@@ -400,8 +400,8 @@ body {
 
 
 #beerlabel {
-	margin-left:320px;
-	margin-top:-630px;
+	margin-left:300px;
+	margin-top:-800px;
 	width:230px;
 	padding-right:10px;
 	height:130px;
@@ -423,7 +423,7 @@ body {
 
 #stationary {
 	margin-left:625px;
-	margin-top:-630px;
+	margin-top:-800px;
 	width:230px;
 	padding-right:10px;
 	height:330px;
@@ -446,7 +446,7 @@ body {
 
 #brochures {
 	margin-left:20px;
-	margin-top:-250px;
+	margin-top:-410px;
 	width:230px;
 	padding-right:10px;
 	height:160px;
@@ -468,7 +468,7 @@ body {
 
 #flyers {
 	margin-left:320px;
-	margin-top:-250px;
+	margin-top:-410px;
 	width:230px;
 	padding-right:10px;
 	height:330px;
@@ -490,10 +490,10 @@ body {
 
 #postcards {
 	margin-left:615px;
-	margin-top:-355px;
+	margin-top:-415px;
 	width:250px;
 	padding-right:10px;
-	height:340px;
+	height:310px;
 	padding-right:0px;
 	background-repeat: no-repeat;
 	text-decoration:none;
@@ -511,12 +511,34 @@ body {
 	font:Helvetica;
 }
 
-#posters {
-	margin-left:320px;
+#signs {
+	margin-left:20px;
 	margin-top:20px;
 	width:230px;
 	padding-right:10px;
-	height:390px;
+	height:200px;
+	padding-right:10px;
+	background-repeat: no-repeat;
+	text-decoration:none;
+}
+
+#signs a{
+	font:Helvetica;
+	color:#FFF;
+	text-decoration:none;
+}
+
+#signs a:hover{
+	color:#000;
+	font-weight:bold
+}
+
+#posters {
+	margin-left:30px;
+	margin-top:20px;
+	width:230px;
+	padding-right:10px;
+	height:340px;
 	padding-right:10px;
 	background-repeat: no-repeat;
 	text-decoration:none;
@@ -535,7 +557,7 @@ body {
 
 #covers {
 	margin-left:613px;
-	margin-top:-420px;
+	margin-top:-380px;
 	width:230px;
 	padding-right:10px;
 	height:178px;
@@ -551,6 +573,73 @@ body {
 }
 
 #covers a:hover{
+	color:#000;
+	font-weight:bold
+}
+
+
+#stickers {
+	margin-left:20px;
+	margin-top:20px;
+	width:230px;
+	padding-right:10px;
+	height:350px;
+	padding-right:10px;
+	background-repeat: no-repeat;
+	text-decoration:none;
+}
+
+#stickers a{
+	font:Helvetica;
+	color:#FFF;
+	text-decoration:none;
+}
+
+#stickers a:hover{
+	color:#000;
+	font-weight:bold
+}
+
+#invitations {
+	margin-left:30px;
+	margin-top:20px;
+	width:230px;
+	padding-right:10px;
+	height:180px;
+	padding-right:10px;
+	background-repeat: no-repeat;
+	text-decoration:none;
+}
+
+#invitations  a{
+	font:Helvetica;
+	color:#FFF;
+	text-decoration:none;
+}
+
+#invitations a:hover{
+	color:#000;
+	font-weight:bold
+}
+
+#foldingcards {
+	margin-left:613px;
+	margin-top:-380px;
+	width:230px;
+	padding-right:10px;
+	height:208px;
+	padding-right:10px;
+	background-repeat: no-repeat;
+	text-decoration:none;
+}
+
+#foldingcards a{
+	font:Helvetica;
+	color:#FFF;
+	text-decoration:none;
+}
+
+#foldingcards a:hover{
 	color:#000;
 	font-weight:bold
 }
@@ -582,4 +671,20 @@ div.img img{
 
 
 
+
+div.img {
+	width: 300px;
+	margin: 20px;
+	border: solid 4px #000;
+	float: left;
+	text-align:center;
+	background-color: #008192;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+}
+
+div.img img{
+	margin: 5px;
+	width:230px;
+}
 

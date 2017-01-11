@@ -3,8 +3,8 @@
 body {
 	margin:0px;
 	font-family:Arial, Helvetica, sans-serif;
-	width:1200px;
-	height:1080px;
+	width:2000px;
+	height:1500px;
 	background-image: url(TEKexprot1/kellysfavorite5_04.jpg);
 	background-repeat:repeat-x;
 }
@@ -20,12 +20,12 @@ body {
 
 #tek2 {
 	margin-left:360px;
-	margin-top:-200px;
+	margin-top:-230px;
 	height:135px;
 	width: 1000px;
 	background-color:#000;
 	font-family:Garamond;
-	font-size:65px;
+	font-size:95px;
 	color:#FFF;
 }
 
@@ -49,17 +49,46 @@ body {
 	color:#000;
 }
 
-#banner {
+#slidesho {
 	margin-left:325px;
 	margin-top:50px;
-	background-image: url(file:///Macintosh%20HD/Users/tedkissel/Desktop/websites%20/tekpicsserversfree2%20copy%204/TEKexprot1/slideshospacer.jpg)l;
-	width:752px;
-	height:509px;
+	width:1452px;
+	height:850px;
+	border:none;
 }
+
+.button-color {
+	background-color:#999;
+}
+
+.button-color1 {
+	overflow: hidden;
+}
+
+.button-color1:after {
+	width:100%;
+	height:0;
+	top:50%;
+	left:50%;
+	background: #0F6;
+	opacity:0;
+	transform: translateX(-50%) translateY(-50%) rotate(45deg);
+}
+
+.button-color1:hover {
+	background-color:#008191;
+	font-weight:bold;
+}
+
+.button-color1:hover:after {
+	height:260%;
+	opacity: 1;
+}
+
 
 #container2 {
 	text-align:center;
-	margin-top:-492px;
+	margin-top:-792px;
 	margin-left:50px;
 }
 
