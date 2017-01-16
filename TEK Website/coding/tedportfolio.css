@@ -3,8 +3,8 @@
 body {
 	margin:0px;
 	font-family:Arial, Helvetica, sans-serif;
-	width:1200px;
-	height:1200px;
+	width:1500px;
+	height:1295px;
 	background-image: url(../../TEKexprot1/kellysfavoritebg2_01.jpg);
 	background-repeat:repeat-x;
 }
@@ -307,11 +307,12 @@ body {
 #container4 {
 	text-align:center;
 	width:307px;
-	height:1520px;
+	height:900px;
 	background-color:#343434;
 	margin-top:150px;
 	margin-left:0px;
 }
+
 
 #navmenu3 {
 	margin-top:0px;
@@ -344,18 +345,381 @@ body {
 	color:#008191;
 	font-weight:bold;
 	
+	}
 	
+#printslices {
+	width: 307px;
+	height: 337px;
+	background-color:#343434;
 }
 
+#printlsl1 {
+	margin-left:0px;
+	margin-top:0px;
+	background-image: url(../../TEKexprot1/printlsl1starter_04.jpg);
+	background-repeat:no-repeat;
+	}
+	
+#printlsl2 {
+	margin-left:13px;
+	margin-top:-160px;
+	background-image: url(../../TEKexprot1/printlsl2_79.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlsl3 {
+	margin-left:22px;
+	margin-top:-300px;
+	background-image: url(../../TEKexprot1/printlsl3_35.jpg);
+	background-repeat:no-repeat;
+	}		
+	
+#printlsl4 {
+	margin-left:38px;
+	margin-top:-282px;
+	background-image: url(../../TEKexprot1/printlsl4_53.jpg);
+	background-repeat:no-repeat;
+	}			
+	
+#printlslt1 {
+	margin-left:50px;
+	margin-top:-266px;
+	background-image: url(../../TEKexprot1/printsl65_65.jpg);
+	background-repeat:no-repeat;
+	}			
+	
+#printlslt2 {
+	margin-left:62px;
+	margin-top:-197px;
+	background-image: url(../../TEKexprot1/printltopsl2_69.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlslt3 {
+	margin-left:71px;
+	margin-top:-191px;
+	background-image: url(../../TEKexprot1/printltopsl3_75.jpg);
+	background-repeat:no-repeat;
+	}		
+	
+#printlslt4 {
+	margin-left:82px;
+	margin-top:-187px;
+	background-image: url(../../TEKexprot1/printltopsl4_78.jpg);
+	background-repeat:no-repeat;
+	}		
+	
+#printlslt5 {
+	margin-left:88px;
+	margin-top:-190px;
+	background-image: url(../../TEKexprot1/printltopsl5_77.jpg);
+	background-repeat:no-repeat;
+	}		
+	
+#printlslt6 {
+	margin-left:93px;
+	margin-top:-193px;
+	background-image: url(../../TEKexprot1/printltopsl6_74.jpg);
+	background-repeat:no-repeat;
+	}			
+	
+#printlslt7 {
+	margin-left:100px;
+	margin-top:-205px;
+	background-image: url(../../TEKexprot1/printltopsl7_72.jpg);
+	background-repeat:no-repeat;
+	}		
+	
+#printlslt8 {
+	margin-left:104px;
+	margin-top:-263px;
+	background-image: url(../../TEKexprot1/printltopsl8_06.jpg);
+	background-repeat:no-repeat;
+	}		
+	
+#printlslt9 {
+	margin-left:111px;
+	margin-top:-223px;
+	background-image: url(../../TEKexprot1/printltopsl10_68.jpg);
+	background-repeat:no-repeat;
+	}			
+	
+#printlslt10 {
+	margin-left:117px;
+	margin-top:-245px;
+	background-image: url(../../TEKexprot1/printltopsl11_63.jpg);
+	background-repeat:no-repeat;
+	}			
+
+#printlslt11 {
+	margin-left:120px;
+	margin-top:-234px;
+	background-image: url(../../TEKexprot1/printltopsl12_67.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlslt12 {
+	margin-left:122px;
+	margin-top:-253px;
+	background-image: url(../../TEKexprot1/printtopcslice56_56.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlslt13 {
+	margin-left:125px;
+	margin-top:-253px;
+	background-image: url(../../TEKexprot1/printltopsl13_57.jpg);
+	background-repeat:no-repeat;
+	}
+	
+#printlslt14 {
+	margin-left:128px;
+	margin-top:-255px;
+	background-image: url(../../TEKexprot1/printltopsl14_48.jpg);
+	background-repeat:no-repeat;
+	}			
+
+#printlslbl {
+	margin-left:50px;
+	margin-top:0px;
+	background-image: url(../../TEKexprot1/printlbotsl9bigone_85.jpg);
+	background-repeat:no-repeat;
+	}		
+	
+#printlslb2 {
+	margin-left:88px;
+	margin-top:0px;
+	background-image: url(../../TEKexprot1/printlbotsl8_87.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlslb3 {
+	margin-left:93px;
+	margin-top:0px;
+	background-image: url(../../TEKexprot1/printlbotsl7_90.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlslb4 {
+	margin-left:88px;
+	margin-top:0px;
+	background-image: url(../../TEKexprot1/printlbotsl6_92.jpg);
+	background-repeat:no-repeat;
+	}
+	
+#printlslb5 {
+	margin-left:82px;
+	margin-top:0px;
+	background-image: url(../../TEKexprot1/printlbotsl5_95.jpg);
+	background-repeat:no-repeat;
+	}		
+	
+#printlslb6 {
+	margin-left:71px;
+	margin-top:0px;
+	background-image: url(../../TEKexprot1/printlbotsl4_97.jpg);
+	background-repeat:no-repeat;
+	}		
+	
+#printlslb7 {
+	margin-left:66px;
+	margin-top:0px;
+	background-image: url(../../TEKexprot1/printlbotsl3_99.jpg);
+	background-repeat:no-repeat;
+	}			
+	
+#printlslb8 {
+	margin-left:63px;
+	margin-top:0px;
+	background-image: url(../../TEKexprot1/printlbotsl2_101.jpg);
+	background-repeat:no-repeat;
+	}
+	
+#printlslb9 {
+	margin-left:60px;
+	margin-top:0px;
+	background-image: url(../../TEKexprot1/printlbotsl1_104.jpg);
+	background-repeat:no-repeat;
+	}		
+
+#printlsr1 {
+	margin-left:133px;
+	margin-top:-322px;
+	background-image: url(../../TEKexprot1/printrsl1_41.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlsr2 {
+	margin-left:138px;
+	margin-top:-324px;
+	background-image: url(../../TEKexprot1/printrsl2_39.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlsr3 {
+	margin-left:143px;
+	margin-top:-327px;
+	background-image: url(../../TEKexprot1/printrsl3_33.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlsr4 {
+	margin-left:152px;
+	margin-top:-330px;
+	background-image: url(../../TEKexprot1/printrsl4_29.jpg);
+	background-repeat:no-repeat;
+	}		
+	
+#printlsr5 {
+	margin-left:157px;
+	margin-top:-334px;
+	background-image: url(../../TEKexprot1/printrsl5_09.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlsr6 {
+	margin-left:178px;
+	margin-top:-326px;
+	background-image: url(../../TEKexprot1/printrsl6_37.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlsr7 {
+	margin-left:182px;
+	margin-top:-329px;
+	background-image: url(../../TEKexprot1/printrsl7_31.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlsr8 {
+	margin-left:186px;
+	margin-top:-331px;
+	background-image: url(../../TEKexprot1/printrsl8_23.jpg);
+	background-repeat:no-repeat;
+	}
+	
+#printlsr9 {
+	margin-left:190px;
+	margin-top:-336px;
+	background-image: url(../../TEKexprot1/printrsl9long_11.jpg);
+	background-repeat:no-repeat;
+	}				
+			
+#printlsr10 {
+	margin-left:207px;
+	margin-top:-333px;
+	background-image: url(../../TEKexprot1/printrsl10mlong_19.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlsr11 {
+	margin-left:217px;
+	margin-top:-335px;
+	background-image: url(../../TEKexprot1/printrsl11mlong_13.jpg);
+	background-repeat:no-repeat;
+	}		
+	
+#printlsr12 {
+	margin-left:228px;
+	margin-top:-322px;
+	background-image: url(../../TEKexprot1/printrsl12_42.jpg);
+	background-repeat:no-repeat;
+	}		
+	
+#printlsr13 {
+	margin-left:233px;
+	margin-top:-331px;
+	background-image: url(../../TEKexprot1/printrsl13_25.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlsr14 {
+	margin-left:238px;
+	margin-top:-336px;
+	background-image: url(../../TEKexprot1/printrsl14mlong_15.jpg);
+	background-repeat:no-repeat;
+	}				
+	
+#printlsr15 {
+	margin-left:250px;
+	margin-top:-334px;
+	background-image: url(../../TEKexprot1/printrsl15_20.jpg);
+	background-repeat:no-repeat;
+	}				
+	
+					
+#printlsr16 {
+	margin-left:254px;
+	margin-top:-321px;
+	background-image: url(../../TEKexprot1/printrsl16_43.jpg);
+	background-repeat:no-repeat;
+	}		
+	
+#printlsr17 {
+	margin-left:265px;
+	margin-top:-331px;
+	background-image: url(../../TEKexprot1/printslice27_27.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlsr18 {
+	margin-left:269px;
+	margin-top:-334px;
+	background-image: url(../../TEKexprot1/printrsl18_17.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlsr19 {
+	margin-left:275px;
+	margin-top:-316px;
+	background-image: url(../../TEKexprot1/printrsl19_61.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlsr20 {
+	margin-left:286px;
+	margin-top:-317px;
+	background-image: url(../../TEKexprot1/printrsl20_59.jpg);
+	background-repeat:no-repeat;
+	}	
+	
+#printlsr21 {
+	margin-left:291px;
+	margin-top:-319px;
+	background-image: url(../../TEKexprot1/printrsl21_50.jpg);
+	background-repeat:no-repeat;
+	}			
+	
+#printlsr22 {
+	margin-left:295px;
+	margin-top:-317px;
+	background-image: url(../../TEKexprot1/printrsl23_60.jpg);
+	background-repeat:no-repeat;
+	}		
+
+#printlsr23 {
+	margin-left:298px;
+	margin-top:-319px;
+	background-image:url(../../TEKexprot1/printrsl24_52.jpg);
+	background-repeat:no-repeat;
+	}		
+	
+#printlsr24 {
+	margin-left:301px;
+	margin-top:-321px;
+	background-image: url(../../TEKexprot1/printrsl25_45.jpg);
+	background-repeat:no-repeat;
+	}			
+		
 
 
 #artwork {
 	margin-left:308px;
-	margin-top:-1700px;
-	width:892px;
-	height:1220px;
-	background-image: url(../../TEKexprot1/kellysfavoriteportfolio_02.jpg);
-	background-color:#FFF;
+	margin-top:-1490px;
+	width:1192px;
+	height:1495px;
+	background-image: url(../../TEKexprot1/webportfoliobg_02.jpg);
+	background-color:#f9fafc;
 	background-repeat: repeat-x;
 }
 
@@ -400,7 +764,7 @@ body {
 
 
 #beerlabel {
-	margin-left:300px;
+	margin-left:320px;
 	margin-top:-800px;
 	width:230px;
 	padding-right:10px;
@@ -445,8 +809,8 @@ body {
 }
 
 #brochures {
-	margin-left:20px;
-	margin-top:-410px;
+	margin-left:925px;
+	margin-top:-800px;
 	width:230px;
 	padding-right:10px;
 	height:160px;
@@ -467,7 +831,7 @@ body {
 }
 
 #flyers {
-	margin-left:320px;
+	margin-left:20px;
 	margin-top:-410px;
 	width:230px;
 	padding-right:10px;
@@ -489,7 +853,7 @@ body {
 }
 
 #postcards {
-	margin-left:615px;
+	margin-left:310px;
 	margin-top:-415px;
 	width:250px;
 	padding-right:10px;
@@ -512,8 +876,8 @@ body {
 }
 
 #signs {
-	margin-left:20px;
-	margin-top:20px;
+	margin-left:630px;
+	margin-top:-415px;
 	width:230px;
 	padding-right:10px;
 	height:200px;
@@ -534,8 +898,8 @@ body {
 }
 
 #posters {
-	margin-left:30px;
-	margin-top:20px;
+	margin-left:925px;
+	margin-top:-415px;
 	width:230px;
 	padding-right:10px;
 	height:340px;
@@ -556,8 +920,8 @@ body {
 }
 
 #covers {
-	margin-left:613px;
-	margin-top:-380px;
+	margin-left:20px;
+	margin-top:20px;
 	width:230px;
 	padding-right:10px;
 	height:178px;
@@ -601,7 +965,7 @@ body {
 }
 
 #invitations {
-	margin-left:30px;
+	margin-left:50px;
 	margin-top:20px;
 	width:230px;
 	padding-right:10px;
@@ -623,8 +987,8 @@ body {
 }
 
 #foldingcards {
-	margin-left:613px;
-	margin-top:-380px;
+	margin-left:30px;
+	margin-top:20px;
 	width:230px;
 	padding-right:10px;
 	height:208px;

@@ -4,7 +4,7 @@ body {
 	margin:0px;
 	font-family:Arial, Helvetica, sans-serif;
 	width:1200px;
-	height:1200px;
+	height:1050px;
 	background-image: url(kellysfavoritebg2_01.jpg);
 	background-repeat:repeat-x;
 }
@@ -307,7 +307,7 @@ body {
 #container4 {
 	text-align:center;
 	width:307px;
-	height:1040px;
+	height:870px;
 	background-color:#343434;
 	margin-top:150px;
 	margin-left:0px;
@@ -351,9 +351,9 @@ body {
 
 #artwork {
 	margin-left:308px;
-	margin-top:-1243px;
+	margin-top:-1050px;
 	width:892px;
-	height:1220px;
+	height:1050px;
 	background-image: url(kellysfavoriteportfolio_02.jpg);
 	background-color:#FFF;
 	background-repeat: repeat-x;

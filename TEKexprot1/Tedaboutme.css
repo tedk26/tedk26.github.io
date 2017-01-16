@@ -4,7 +4,7 @@ body {
 	margin:0px;
 	font-family:Arial, Helvetica, sans-serif;
 	width:960px;
-	height:1080px;
+	height:880px;
 	background-image: url(kellysfavorite5_04.jpg);
 	background-repeat:repeat-x;
 }
@@ -124,8 +124,8 @@ body {
 #header {
 	margin:0px;
 	font-family:Arial, Helvetica, sans-serif;
-	height:160 px;
-	width:1000 px;
+	height:160px;
+	width:940px;
 	background-color:#000;
 }
 
