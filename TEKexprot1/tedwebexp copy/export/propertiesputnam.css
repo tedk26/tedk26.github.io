@@ -1,0 +1,1012 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	width:1374px;
+	height:2000px;
+	font-family:Arial, Helvetica, sans-serif;
+	background-image:url(servicesbg_01.jpg);
+	background-repeat: inherit;
+}
+
+#head {
+	width:1374px;
+	height:344px;
+	font-family: Impact;
+}
+
+#logoarea {
+	margin-left:71px;
+	margin-top:167px;
+	height:237px;
+	width:381px;
+	border: none;
+}
+
+#logolslice1 {
+	margin-top:72px;
+	margin-left:0px;
+	background-image: url(servicesllogoslices_215.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice2 {
+	margin-top:-26px;
+	margin-left:4px;
+	background-image: url(servicesllogoslices_209.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice3 {
+	margin-top:-33px;
+	margin-left:8px;
+	background-image: url(servicestendslices_209.jpg);
+	background-repeat: no-repeat;
+}
+
+
+
+
+#logolslicet1 {
+	margin-top:15px;
+	margin-left:9px;
+	background-image: url(servicestendslices_231.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice4 {
+	margin-top:-73px;
+	margin-left:12px;
+	background-image: url(servicesllogoslices_199.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslicet2 {
+	margin-top:14px;
+	margin-left:12px;
+	background-image: url(servicestendslices_232.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice5 {
+	margin-top:-74px;
+	margin-left:13px;
+	background-image: url(servicesllogoslices_195.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice6 {
+	margin-top:-163px;
+	margin-left:15px;
+	background-image: url(servicesllogoslices_191.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice7 {
+	margin-top:-165px;
+	margin-left:19px;
+	background-image: url(servicesllogoslices_185.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice8 {
+	margin-top:-168px;
+	margin-left:23px;
+	background-image: url(servicesllogoslices_177.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice9 {
+	margin-top:-170px;
+	margin-left:27px;
+	background-image: url(servicesllogoslices_171.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice10 {
+	margin-top:-171px;
+	margin-left:31px;
+	background-image: url(servicesllogoslices_167.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice11 {
+	margin-top:-173px;
+	margin-left:34px;
+	background-image: url(servicesllogoslices_161.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice12 {
+	margin-top:-176px;
+	margin-left:38px;
+	background-image: url(servicesllogoslices_155.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice13 {
+	margin-top:-178px;
+	margin-left:42px;
+	background-image: url(servicesllogoslices_149.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice14 {
+	margin-top:-179px;
+	margin-left:46px;
+	background-image: url(servicesllogoslices_145.jpg);
+	background-repeat: no-repeat;
+	background-color:#FFF;
+	width:3px;
+	padding-bottom:22px;
+}
+
+#logolslice15 {
+	margin-top:-181px;
+	margin-left:49px;
+	background-image: url(servicesllogoslices_139.jpg);
+	background-repeat: no-repeat;
+	background-color:#FFF;
+	width:4px;
+	padding-bottom:22px;
+}
+
+#logolslice16 {
+	margin-top:-183px;
+	margin-left:53px;
+	background-image: url(servicesllogoslices_133.jpg);
+	background-repeat: no-repeat;
+	width:4px;
+}
+
+#logolslice17 {
+	margin-top:-185px;
+	margin-left:57px;
+	background-image: url(servicesllogoslices_127.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice18 {
+	margin-top:-187px;
+	margin-left:61px;
+	background-image: url(servicesllogoslices_121.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice19 {
+	margin-top:-189px;
+	margin-left:65px;
+	background-image: url(servicesllogoslices_117.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice20 {
+	margin-top:-191px;
+	margin-left:69px;
+	background-image: url(servicesllogoslices_111.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice21 {
+	margin-top:-193px;
+	margin-left:72px;
+	background-image: url(servicesllogoslices_105.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice22 {
+	margin-top:-195px;
+	margin-left:76px;
+	background-image: url(mainlogolslices_99.png);
+	background-repeat: no-repeat;
+}
+
+#logolslice23 {
+	margin-top:-197px;
+	margin-left:80px;
+	background-image: url(mainlogolslices_93.png);
+	background-repeat: no-repeat;
+}
+
+#logolslice24 {
+	margin-top:-199px;
+	margin-left:84px;
+	background-image: url(mainlogolslices_87.png);
+	background-repeat: no-repeat;
+}
+
+#logolslice25 {
+	margin-top:-201px;
+	margin-left:88px;
+	background-image: url(servicesllogoslices_81.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice26 {
+	margin-top:-203px;
+	margin-left:91px;
+	background-image: url(servicesllogoslices_75.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice27 {
+	margin-top:-205px;
+	margin-left:95px;
+	background-image: url(servicesllogoslices_69.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice28 {
+	margin-top:-207px;
+	margin-left:99px;
+	background-image: url(servicesllogoslices_63.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice29 {
+	margin-top:-209px;
+	margin-left:103px;
+	background-image: url(servicesllogoslices_59.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice30 {
+	margin-top:-211px;
+	margin-left:107px;
+	background-image: url(servicesllogoslices_53.jpg);
+	background-repeat: no-repeat;
+	background-color:#FFF;
+	width:4px;
+	padding-bottom:22px;
+}
+
+#logolslice31 {
+	margin-top:-213px;
+	margin-left:111px;
+	background-image: url(servicesllogoslices_47.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice32 {
+	margin-top:-215px;
+	margin-left:115px;
+	background-image: url(servicesllogoslices_41.jpg);
+	background-repeat: no-repeat;
+}
+
+
+#logolslice33 {
+	margin-top:-217px;
+	margin-left:118px;
+	background-image: url(servicesllogoslices_35.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice34 {
+	margin-top:-219px;
+	margin-left:122px;
+	background-image: url(servicesllogoslices_31.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice35 {
+	margin-top:-221px;
+	margin-left:126px;
+	background-image: url(servicesllogoslices_25.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice36 {
+	margin-top:-223px;
+	margin-left:130px;
+	background-image: url(servicesllogoslices_19.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslice37 {
+	margin-top:-225px;
+	margin-left:134px;
+	background-image: url(servicesllogoslices_13.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslicem1 {
+	margin-top:-227px;
+	margin-left:137px;
+	background-image: url(serviceslogomidslices_07.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslicem2 {
+	margin-top:-228px;
+	margin-left:141px;
+	background-image: url(serviceslogomidslices_04.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslicer1 {
+	margin-top:-227px;
+	margin-left:145px;
+	background-image: url(serciceslogolslices_08.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslicer2 {
+	margin-top:-226px;
+	margin-left:149px;
+	background-image: url(serviceslostslice10_10.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslicer3 {
+	margin-top:-225px;
+	margin-left:152px;
+	background-image: url(serviceslostlsice3_14.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslicer4 {
+	margin-top:-224px;
+	margin-left:156px;
+	background-image: url(serciceslogolslices_16.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslicer5 {
+	margin-top:-223px;
+	margin-left:160px;
+	background-image: url(serciceslogolslices_20.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslicer6 {
+	margin-top:-222px;
+	margin-left:163px;
+	width:4px;
+	background-color:#FFF;
+	padding-bottom:22px;
+	background-image: url(serviceslostslice1_22.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslicer7 {
+	margin-top:-221px;
+	margin-left:167px;
+	width:4px;
+	background-image: url(serciceslogolslices_26.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslicer8 {
+	margin-top:-220px;
+	margin-left:171px;
+	width:4px;
+	background-image: url(serviceslostslice2_28.jpg);
+	background-repeat: no-repeat;
+}
+
+#logolslicer9 {
+	margin-top:-218px;
+	margin-left:175px;
+	background-image: url(serciceslogolslices_32.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer10 {
+	margin-top:-217px;
+	margin-left:178px;
+	background-image: url(serciceslogolslices_36.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer11 {
+	margin-top:-216px;
+	margin-left:182px;
+	background-image: url(serciceslogolslices_38.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer12 {
+	margin-top:-215px;
+	margin-left:186px;
+	background-image: url(serciceslogolslices_42.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer13 {
+	margin-top:-214px;
+	margin-left:189px;
+	background-image: url(serciceslogolslices_44.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer14 {
+	margin-top:-213px;
+	margin-left:192px;
+	background-image: url(serciceslogolslices_48.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer15 {
+	margin-top:-212px;
+	margin-left:195px;
+	background-image: url(serciceslogolslices_50.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer16 {
+	margin-top:-211px;
+	margin-left:198px;
+	background-image: url(serciceslogolslices_54.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer17 {
+	margin-top:-210px;
+	margin-left:201px;
+	background-image: url(serciceslogolslices_56.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer18 {
+	margin-top:-209px;
+	margin-left:204px;
+	background-image: url(serciceslogolslices_60.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer19 {
+	margin-top:-207px;
+	margin-left:208px;
+	background-image: url(serciceslogolslices_64.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer20 {
+	margin-top:-206px;
+	margin-left:211px;
+	background-image: url(serciceslogolslices_66.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer21 {
+	margin-top:-205px;
+	margin-left:215px;
+	background-image: url(serciceslogolslices_70.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer22 {
+	margin-top:-204px;
+	margin-left:218px;
+	background-image: url(serciceslogolslices_72.jpg);
+	background-repeat: no-repeat;
+	background-color:#FFF;
+	width:3px;
+	padding-bottom:22px;
+}
+
+
+#logoslicer23 {
+	margin-top:-203px;
+	margin-left:221px;
+	background-image: url(serciceslogolslices_76.jpg);
+	background-repeat: no-repeat;
+	padding-bottom:22px;
+}
+
+#logoslicer24 {
+	margin-top:-224px;
+	margin-left:224px;
+	background-image: url(serciceslogolslices_78.jpg);
+	background-repeat: no-repeat;
+	padding-bottom:22px;
+}
+
+#logoslicer25 {
+	margin-top:-223px;
+	margin-left:228px;
+	background-image: url(serciceslogolslices_82.jpg);
+	background-repeat: no-repeat;
+	padding-bottom:22px;
+}
+
+#logoslicer26 {
+	margin-top:-222px;
+	margin-left:231px;
+	background-image: url(serciceslogolslices_84.jpg);
+	background-repeat: no-repeat;
+	padding-bottom:22px;
+}
+
+#logoslicer27 {
+	margin-top:-221px;
+	margin-left:234px;
+	background-image: url(serciceslogolslices_88.jpg);
+	background-repeat: no-repeat;
+	padding-bottom:22px;
+}
+
+#logoslicer28 {
+	margin-top:-220px;
+	margin-left:237px;
+	background-image: url(serciceslogolslices_90.jpg);
+	background-repeat: no-repeat;
+	padding-bottom:22px;
+}
+
+#logoslicer29 {
+	margin-top:-219px;
+	margin-left:241px;
+	background-image: url(serciceslogolslices_94.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer30 {
+	margin-top:-196px;
+	margin-left:244px;
+	background-image: url(serciceslogolslices_96.jpg);
+	background-repeat: no-repeat;
+	background-color:#FFF;
+	width:4px;}
+
+#logoslicer31 {
+	margin-top:-195px;
+	margin-left:247px;
+	background-image: url(serciceslogolslices_100.jpg);
+	background-repeat: no-repeat;
+	width:4px;
+	background-color:#FFF;
+	padding-bottom:21px;
+}
+
+#logoslicer32 {
+	margin-top:-194px;
+	margin-left:250px;
+	background-image: url(serciceslogolslices_102.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer33 {
+	margin-top:-193px;
+	margin-left:253px;
+	background-image: url(serciceslogolslices_106.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer34 {
+	margin-top:-192px;
+	margin-left:256px;
+	background-image: url(serciceslogolslices_108.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer35 {
+	margin-top:-191px;
+	margin-left:259px;
+	background-image: url(serciceslogolslices_112.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer36 {
+	margin-top:-190px;
+	margin-left:263px;
+	background-image: url(serciceslogolslices_114.jpg);
+	background-repeat: no-repeat;
+}
+
+#logoslicer37 {
+	margin-top:-188px;
+	margin-left:266px;
+	background-image: url(serciceslogolslices_118_118.jpg);
+	background-repeat: no-repeat;
+	
+}
+#logoslicer38 {
+	margin-top:-187px;
+	margin-left:269px;
+	background-image: url(serciceslogolslices_124.jpg);
+	background-repeat: no-repeat;
+	width:4px;
+	background-color:#FFF;
+	padding-bottom:22px;
+
+}
+
+#logoslicer39 {
+	margin-top:-186px;
+	margin-left:273px;
+	background-image: url(serciceslogolslices_128.jpg);
+	background-repeat: no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:22px;
+	
+}
+
+#logoslicer40 {
+	margin-top:-185px;
+	margin-left:276px;
+	background-image: url(serciceslogolslices_130.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;	
+}
+
+
+#logoslicer41 {
+	margin-top:-184px;
+	margin-left:279px;
+	background-image: url(serciceslogolslices_134.jpg);
+	background-repeat:no-repeat;
+	width:4px;
+	background-color:#FFF;
+	padding-bottom:1px;
+
+}
+
+#logoslicer42 {
+	margin-top:-183px;
+	margin-left:283px;
+	background-image: url(serciceslogolslices_136.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+
+}
+
+#logoslicer43 {
+	margin-top:-182px;
+	margin-left:286px;
+	background-image: url(serciceslogolslices_140.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+
+}
+
+#logoslicer44 {
+	margin-top:-181px;
+	margin-left:289px;
+	background-image: url(serciceslogolslices_142.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer45 {
+	margin-top:-180px;
+	margin-left:292px;
+	background-image: url(serciceslogolslices_146.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer46 {
+	margin-top:-179px;
+	margin-left:295px;
+	background-image: url(serciceslogolslices_150.jpg);
+	background-repeat:no-repeat;
+	width:4px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer47 {
+	margin-top:-178px;
+	margin-left:299px;
+	background-image: url(serciceslogolslices_152.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer48 {
+	margin-top:-177px;
+	margin-left:302px;
+	background-image: url(serciceslogolslices_156.jpg);
+	background-repeat:no-repeat;
+	width:4px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer49 {
+	margin-top:-176px;
+	margin-left:306px;
+	background-image: url(serciceslogolslices_158.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer50 {
+	margin-top:-174px;
+	margin-left:309px;
+	background-image: url(serciceslogolslices_162.jpg);
+	background-repeat:no-repeat;
+	width:4px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer51 {
+	margin-top:-173px;
+	margin-left:313px;
+	background-image: url(serciceslogolslices_164.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer52 {
+	margin-top:-172px;
+	margin-left:316px;
+	background-image: url(serciceslogolslices_168.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer53 {
+	margin-top:-171px;
+	margin-left:319px;
+	background-image: url(serciceslogolslices_172.jpg);
+	background-repeat:no-repeat;
+	width:4px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer54 {
+	margin-top:-170px;
+	margin-left:323px;
+	background-image: url(serciceslogolslices_174.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer55 {
+	margin-top:-169px;
+	margin-left:326px;
+	background-image: url(serciceslogolslices_178.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer56 {
+	margin-top:-168px;
+	margin-left:329px;
+	background-image: url(serciceslogolslices_180.jpg);
+	background-repeat:no-repeat;
+	width:4px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer57 {
+	margin-top:-167px;
+	margin-left:333px;
+	background-image: url(serciceslogolslices_182.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer58 {
+	margin-top:-166px;
+	margin-left:336px;
+	background-image: url(serciceslogolslices_186.jpg);
+	background-repeat:no-repeat;
+	width:4px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer59 {
+	margin-top:-165px;
+	margin-left:340px;
+	background-image: url(serciceslogolslices_188.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer60 {
+	margin-top:-164px;
+	margin-left:343px;
+	background-image: url(serciceslogolslices_192.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer61 {
+	margin-top:-163px;
+	margin-left:346px;
+	background-image: url(serciceslogolslices_196.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer62 {
+	margin-top:-162px;
+	margin-left:349px;
+	background-image: url(serciceslogolslices_200.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+
+#logoslicer63 {
+	margin-top:-161px;
+	margin-left:352px;
+	background-image: url(serciceslogolslices_204.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer64 {
+	margin-top:-160px;
+	margin-left:355px;
+	background-image: url(serciceslogolslices_206.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer65 {
+	margin-top:-159px;
+	margin-left:358px;
+	background-image: url(serciceslogolslices_210.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer66 {
+	margin-top:-158px;
+	margin-left:361px;
+	background-image: url(serciceslogolslices_212.jpg);
+	background-repeat:no-repeat;
+	width:4px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer67 {
+	margin-top:-157px;
+	margin-left:365px;
+	background-image: url(serciceslogolslices_216.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer68 {
+	margin-top:-156px;
+	margin-left:368px;
+	background-image: url(serciceslogolslices_218.jpg);
+	background-repeat:no-repeat;
+	width:4px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer69 {
+	margin-top:-155px;
+	margin-left:372px;
+	background-image: url(serciceslogolslices_220.jpg);
+	background-repeat:no-repeat;
+	width:4px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer70 {
+	margin-top:-154px;
+	margin-left:376px;
+	background-image: url(serciceslogolslices_222.jpg);
+	background-repeat:no-repeat;
+	width:3px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#logoslicer71 {
+	margin-top:-153px;
+	margin-left:379px;
+	background-image: url(serciceslogolslices_224.jpg);
+	background-repeat:no-repeat;
+	width:2px;
+	background-color:#FFF;
+	padding-bottom:1px;
+}
+
+#bbar {
+	width:368px;
+	height:12px;
+	background-color:#FFF;
+	margin-left:13px;
+	margin-top:0px;
+}
+
+#headdercolor {
+	margin-left:452px;
+	margin-top:-233px;
+	width:920px;
+	height:17px;
+	background-color:#FFF;
+}
+
+#headdercolor2 {
+	margin-left:452px;
+	margin-top:0px;
+	padding-top:1px;
+	padding-bottom:15px;
+	width:920px;
+	height:130px;
+	background-color:#2f8a5f;
+}
+
+#services {
+	margin-left:233px;
+	margin-top:-75px;
+	font-family:Impact;
+	font-size:90px;
+	color:#44c4d6;
+}
+
+#mowerarea {
+	margin-left:-455px;
+	margin-top:-71px;
+	width:1374px;
+	height:971px;
+	background-color:#abc87e;
+	font-family:Impact;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
