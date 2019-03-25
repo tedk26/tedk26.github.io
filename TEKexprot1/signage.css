@@ -1,0 +1,94 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+	width:2000px;
+	height:1100px;
+	background: url(webgal_02_02.jpg);
+	background-repeat:repeat-x;
+	background-color:#FFF;
+	border:none;
+	margin-top:-2px;
+}
+ 
+
+
+#header {
+	width:2000px;
+	height:40px;
+	background-color:#000;
+	font:Helvetica;
+}
+
+#navMenu {
+	margin:0px;
+	padding:0px;
+}
+
+#navMenu ul {
+	margin:0px;
+	padding:0px;
+	line-height:40px;
+	
+}
+
+#navMenu li {
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	float:left;
+	position:relative;
+}
+
+#navMenu ul li a {
+	text-align:center;
+	font-family:Helvetica;
+	text-decoration:none;
+	font-size:24px;
+	height:40px;
+	width:180px;
+	display:block;
+	color:#FFF;
+}
+
+#navMenu ul ul {
+	position:absolute;
+	visibility:hidden;
+	top:40px;
+
+}
+
+#navMenu ul li:hover ul {
+	visibility:visible;
+	background:#008191;
+	
+}
+
+
+#posters {
+	width:1452px;
+	height:850px;
+	margin-left:100px;
+	margin-top:0px;
+	border:#003 1px solid;
+}
+
+/********************************************************************************/
+
+#navMenu li:hover {
+	background:#008191;
+}
+
+#navMenu ul li:hover ul li a:hover {
+	color:#008191;
+	background:#000;
+	
+}
+
+#navMenu a:hover {
+	color:#000;
+	font-weight:bold;
+}
+
+
