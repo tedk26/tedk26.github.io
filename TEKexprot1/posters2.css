@@ -4,13 +4,11 @@
 
 body {
 	width:2000px;
-	height:1100px;
+	height:900px;
 	background: url(webgal_02_02.jpg);
 	background-repeat:repeat-x;
 	background-color:#FFF;
-	border:none;
 }
- 
 
 
 #header {
